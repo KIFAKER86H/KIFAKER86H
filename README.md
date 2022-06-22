@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭I’m currently working on NOWHERE.
+🌱I’m currently learning COMPUTER CODE.
+👯 I’m looking to collaborate on .....
+
 <!--
 **KIFAKER86H/KIFAKER86H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
