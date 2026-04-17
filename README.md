@@ -4,6 +4,8 @@
 
 # Hi there, I'm Boonprapattanun 👋
 
+[![View My CV](https://img.shields.io/badge/View_My_CV-000000?style=for-the-badge&logo=Read-the-docs&logoColor=white)](https://drive.google.com/file/d/1bC42x_EFnsddTOhLw6qLyKdxnb6Yr9Vx/view?usp=sharing)
+
 I am a Computer Engineering graduate passionate about bridging the gap between hardware and intelligent software, from AI/ML and IoT systems.
 
 ## 👨‍💻 About Me
