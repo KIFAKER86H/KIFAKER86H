@@ -4,7 +4,7 @@
 
 # Hi there, I'm Boonprapattanun 👋
 
-[![View My CV](https://drive.google.com/file/d/1Y7-zYF6HtaXsD-JaxcPK-dL0qbJg7E6F/view?usp=sharing)
+[![View My CV](https://drive.google.com/file/d/1Y7-zYF6HtaXsD-JaxcPK-dL0qbJg7E6F/view?usp=sharing)]
 
 I am a Computer Engineering graduate passionate about bridging the gap between hardware and intelligent software, from AI/ML and IoT systems.
 
